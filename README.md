@@ -17,4 +17,11 @@ My name is Rodrigo Takara, I'm 24, and I'm a mechatronics engineer.<br><br>I enj
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo150500&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150px">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rodrigo150500/Rodrigo150500/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rodrigo150500/Rodrigo150500/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rodrigo150500/Rodrigo150500/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
