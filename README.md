@@ -16,5 +16,5 @@ My name is Rodrigo Takara, I'm 24, and I'm a mechatronics engineer.<br><br>I enj
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo150500&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150px">
 </div>
----
+
 
