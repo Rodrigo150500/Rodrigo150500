@@ -1,5 +1,5 @@
 # ✨ About Me:
-My name is Rodrigo Takara, I'm 24, and I'm a mechatronics engineer.<br><br>I enjoy solving problems with code, and right now, I'm learning Python.<br><br>My goal is to become a full-stack developer for websites and mobile apps.<br><br>⭐Favorite Tech: Python<br><br>🤡 Fun Facts:<br><br>- 🐱‍👤 My cat's name is Felix.<br>- ☕ I don't like coffee, but I love its smell.<br>- 🍦 When it's cold, I like to eat ice cream.<br>- 🌟My favorite anime is Howl's Moving Castle, especially the breakfast scene.<br>- 🍊 I like to eat oranges with salt.
+My name is Rodrigo Takara, I'm 25, and I'm a mechatronics engineer.<br><br>I enjoy solving problems with code, and right now, I'm learning Python.<br><br>My goal is to become a full-stack developer for websites and mobile apps.<br><br>⭐Favorite Tech: Python<br><br>🤡 Fun Facts:<br><br>- 🐱‍👤 My cat's name is Felix.<br>- ☕ I don't like coffee, but I love its smell.<br>- 🍦 When it's cold, I like to eat ice cream.<br>- 🌟My favorite anime is Howl's Moving Castle, especially the breakfast scene.<br>- 🍊 I like to eat oranges with salt.
 
 
 ## 🌐 Socials:
